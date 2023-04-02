@@ -1,5 +1,5 @@
-# <details open>
-<summary><b>1.网络训练</b></summary>
+<details open>
+# <summary><b>1.网络训练</b></summary>
 
 ## 1.1训练YOLOv8-Seg
 ### 1.1.1 数据集准备
