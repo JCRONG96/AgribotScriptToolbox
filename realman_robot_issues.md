@@ -2,4 +2,4 @@
 
 <img src="./issues_figure/joint_angle_encoder_error.jpg" width="251" height="350" />
 
-没检测到关节的角度，转一转关节
+解决方案：没检测到关节的角度，转一转关节
