@@ -21,5 +21,7 @@
 
 ## 1 Intel RealSense
 
+如果你使用 Intel RealSense 相机，你可以参考以下代码
+
 [代码和教程](./Image-Capture-With-RealSense/README_CN.md)
 
