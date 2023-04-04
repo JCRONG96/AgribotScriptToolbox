@@ -1,5 +1,4 @@
-<details open>
-<summary><b>网络训练</b></summary>
+# 网络训练
 
 ## 1 训练YOLOv8-Seg
 ### 1.1 数据集准备
@@ -11,22 +10,16 @@
 ### 1.2 训练
 [可以参考这个文档](https://blog.csdn.net/m0_70140421/article/details/129052132)
 
-</details>
 
-<details open>
-<summary><b>硬件调试</b></summary>
+# 硬件调试
 
 ## 1 睿尔曼机械臂调试
 
 [问题梳理](./realman_robot_issues.md)
 
-</details>
-
-<details open>
-<summary><b>各类型相机使用教程</b></summary>
+# 各类型相机使用教程
 
 ## 1 Intel RealSense
 
 [代码和教程](./Image-Capture-With-RealSense/README_CN.md)
 
-</details>
