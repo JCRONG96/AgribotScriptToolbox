@@ -1,6 +1,6 @@
 # 网络训练
 
-## 1 训练YOLOv8-Seg
+## 1 训练YOLOv8-Seg (农大RJC)
 ### 1.1 数据集准备
 
 [将labelme标注的json文件转化为txt文件](./data_convert_scripts/labelme2yolo.py)
@@ -13,7 +13,7 @@
 
 # 硬件调试
 
-## 1 睿尔曼机械臂调试
+## 1 睿尔曼机械臂调试 (苏大HL)
 
 [问题梳理](./realman_robot_issues.md)
 
@@ -21,10 +21,10 @@
 
 ## 1 Intel RealSense
 
-如果你使用 Intel RealSense 相机，你可以参考以下代码
+如果你使用 Intel RealSense 相机，你可以参考以下代码 (苏大LHF)
 
 [代码和教程](./Image-Capture-With-RealSense/README_CN.md)
 
 # ros杂记
 
-[ros主从机通讯](./ros_connect.md)
+[ros主从机通讯](./ros_connect.md) (农大RJC/ZY)
