@@ -25,3 +25,6 @@
 
 [代码和教程](./Image-Capture-With-RealSense/README_CN.md)
 
+# ros杂记
+
+[ros主从机通讯](./ros_connect.md)
