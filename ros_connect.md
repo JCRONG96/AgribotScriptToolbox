@@ -12,6 +12,8 @@ sudo gedit /etc/hosts
 
 添加对方的IP地址和计算机名称
 
+<img src="./issues_figure/ros分布式通讯hosts设置.png" width="251" height="350" />
+
 检查是否能够互相ping通
 
 ```
@@ -32,6 +34,7 @@ export ROS_MASTER_URI=http://主机IP:11311
 export ROS_HOSTNAME=主机IP
 ```
 
+<img src="./issues_figure/bashrc设置.png" width="251" height="350" />
 
 
 更新环境配置
