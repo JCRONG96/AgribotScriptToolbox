@@ -1,10 +1,12 @@
 # 日常操作
-第一步，添加到暂存区（本地）
+```shell
+# 第一步，添加到暂存区（本地）
 git add -A
-第二步，添加到本地仓库更改（本地）
+# 第二步，添加到本地仓库更改（本地）
 git commit -m "xxxxxxxxxxx备注"
-第三步，同步本地仓库更改到远程（远程）
+# 第三步，同步本地仓库更改到远程（远程）
 git push -u origin main
+```
 
 ### …or create a new repository on the command line
 
