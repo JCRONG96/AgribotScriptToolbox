@@ -32,4 +32,4 @@
 [ros的IDE配置](./ros_vscode_config.md)
 
 # 杂记
-[git工具使用命令基础](./ros_connect.md) 
+[git工具使用命令基础](./git_usage.md) 
