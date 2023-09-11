@@ -25,8 +25,11 @@
 
 [代码和教程](./Image-Capture-With-RealSense/README_CN.md)
 
-# ros杂记
+# ros
 
 [ros主从机通讯](./ros_connect.md) 
 
 [ros的IDE配置](./ros_vscode_config.md)
+
+# 杂记
+[git工具使用命令基础](./ros_connect.md) 
