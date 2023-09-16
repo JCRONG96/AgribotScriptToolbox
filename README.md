@@ -33,3 +33,4 @@
 
 # 杂记
 [git工具使用命令基础](./git_usage.md) 
+[求解图片数据集中所有图片的颜色平均值和标准差](./calculate_mean_std_of_image/demo.py)
