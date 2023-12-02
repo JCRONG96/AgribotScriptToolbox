@@ -5,6 +5,8 @@
 
 [将labelme标注的json文件转化为txt文件](./data_convert_scripts/labelme2yolo.py)
 
+[json转为yolo格式，Ultralytics官方](https://github.com/ultralytics/JSON2YOLO/tree/master)
+
 [划分数据集](./data_convert_scripts/split_dataset.py)
 
 ### 1.2 训练
