@@ -6,6 +6,24 @@ git add -A
 git commit -m "xxxxxxxxxxx备注"
 # 第三步，同步本地仓库更改到远程（远程）
 git push -u origin main
+# 如果上一步失败了，强制推送
+git push -f origin main
+# 如果网络访问失败，使用代理
+# 设置ss
+git config --global http.proxy 'socks5://127.0.0.1:1080'
+
+git config --global https.proxy 'socks5://127.0.0.1:1080'
+
+# 设置代理
+git config --global https.proxy http://127.0.0.1:8888
+
+git config --global https.proxy https://127.0.0.1:8888
+
+# 取消代理
+git config --global --unset http.proxy
+
+git config --global --unset https.proxy
+
 ```
 
 ### …or create a new repository on the command line
