@@ -27,6 +27,9 @@
 
 [代码和教程](./Image-Capture-With-RealSense/README_CN.md)
 
+下面是新写的
+[代码](./cams/realsense.py)
+
 # ros
 
 [ros主从机通讯](./ros_connect.md) 
