@@ -9,6 +9,8 @@
 
 [划分数据集](./data_convert_scripts/split_dataset.py)
 
+[去除group_id](./coco_assist/combine_multi_group.py)
+
 ### 1.2 训练
 [可以参考这个文档](https://blog.csdn.net/m0_70140421/article/details/129052132)
 
